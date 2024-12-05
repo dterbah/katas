@@ -11,7 +11,7 @@ Welcome to the **Katas Practice Repository**! This project is a personal space w
 
 ---
 
-## About
+📖 About
 
 Programming katas are exercises designed to improve coding skills through repetition and experimentation. This repository will feature katas from various sources and challenges across different domains such as algorithms, data structures, and more.
 
@@ -19,7 +19,7 @@ Whether you’re here to review the solutions, suggest improvements, or practice
 
 ---
 
-## Technologies Used
+## 💻 Technologies Used
 
 The repository is designed to be flexible and may include katas implemented in multiple languages, such as:
 

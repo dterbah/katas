@@ -20,5 +20,6 @@ public class KataTest {
         doTest("foobar99", "foobar100");
         doTest("foobar099", "foobar100");
         doTest("", "1");
+        doTest("1", "2");
     }
 }
